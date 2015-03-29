@@ -1,0 +1,272 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Thailand TV Digital</title>
+	<trackList>
+		<track>
+			<location>dvb-t://frequency=594000000:bandwidth=8</location>
+			<title>TV5 HD1</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:option>program=1</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>dvb-t://frequency=514000000:bandwidth=8</location>
+			<title>NBT HD ON PRD</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:option>program=2</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>dvb-t://frequency=658000000:bandwidth=8</location>
+			<title>THAIPBS HD</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:option>program=3</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>dvb-t://frequency=658000000:bandwidth=8</location>
+			<title>THAIPBS SD</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:option>program=4</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>dvb-t://frequency=514000000:bandwidth=8</location>
+			<title>SD-1 ON PRD</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:option>program=5</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>dvb-t://frequency=514000000:bandwidth=8</location>
+			<title>SD-2 ON PRD</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:option>program=6</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>dvb-t://frequency=514000000:bandwidth=8</location>
+			<title>SD-3 ON PRD</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:option>program=7</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>dvb-t://frequency=514000000:bandwidth=8</location>
+			<title>SD-4 ON PRD</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:option>program=8</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>dvb-t://frequency=514000000:bandwidth=8</location>
+			<title>SD-5 ON PRD</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:option>program=9</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>dvb-t://frequency=514000000:bandwidth=8</location>
+			<title>SD-6 ON PRD</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:option>program=10</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>dvb-t://frequency=514000000:bandwidth=8</location>
+			<title>HD-2 On PRD</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:option>program=11</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>dvb-t://frequency=658000000:bandwidth=8</location>
+			<title>3 Family</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:option>program=13</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>dvb-t://frequency=626000000:bandwidth=8</location>
+			<title>MCOT Family</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:option>program=14</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>dvb-t://frequency=658000000:bandwidth=8</location>
+			<title>LOCA</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:option>program=15</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>dvb-t://frequency=594000000:bandwidth=8</location>
+			<title>TNN24</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:option>program=16</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>dvb-t://frequency=658000000:bandwidth=8</location>
+			<title>THV</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:option>program=17</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>dvb-t://frequency=722000000:bandwidth=8</location>
+			<title>new)tv</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:option>program=18</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>dvb-t://frequency=626000000:bandwidth=8</location>
+			<title>SPRING NEWS</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:option>program=19</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>dvb-t://frequency=722000000:bandwidth=8</location>
+			<title>BRIGHT TV</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:option>program=20</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>dvb-t://frequency=626000000:bandwidth=8</location>
+			<title>VOICE TV</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:option>program=21</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>dvb-t://frequency=722000000:bandwidth=8</location>
+			<title>Nation TV</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:option>program=22</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>dvb-t://frequency=594000000:bandwidth=8</location>
+			<title>Workpoint TV</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:option>program=23</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>dvb-t://frequency=594000000:bandwidth=8</location>
+			<title>True4U</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:option>program=24</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>dvb-t://frequency=722000000:bandwidth=8</location>
+			<title>GMM Channel</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:option>program=25</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>dvb-t://frequency=722000000:bandwidth=8</location>
+			<title>NOW</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:option>program=26</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>dvb-t://frequency=658000000:bandwidth=8</location>
+			<title>CH8</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:option>program=27</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>dvb-t://frequency=658000000:bandwidth=8</location>
+			<title>3 SD/title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:option>program=28</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>dvb-t://frequency=722000000:bandwidth=8</location>
+			<title>MONO</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:option>program=29</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>dvb-t://frequency=626000000:bandwidth=8</location>
+			<title>MCOT HD</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:option>program=30</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>dvb-t://frequency=594000000:bandwidth=8</location>
+			<title>ONE HD</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:option>program=31</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>dvb-t://frequency=626000000:bandwidth=8</location>
+			<title>Thairath TV HD</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:option>program=32</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>dvb-t://frequency=658000000:bandwidth=8</location>
+			<title>3 HD</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:option>program=33</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>dvb-t://frequency=722000000:bandwidth=8</location>
+			<title>Amarin TV HD</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:option>program=34</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>dvb-t://frequency=594000000:bandwidth=8</location>
+			<title>CH7 HD</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:option>program=35</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>dvb-t://frequency=722000000:bandwidth=8</location>
+			<title>PPTV HD</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:option>program=36</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>dvb-t://frequency=626000000:bandwidth=8</location>
+			<title>NEW CH 1</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:option>program=41</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>dvb-t://frequency=626000000:bandwidth=8</location>
+			<title>NEW CH 2</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:option>program=42</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>dvb-t://frequency=626000000:bandwidth=8</location>
+			<title>NBT</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:option>program=43</vlc:option>
+			</extension>
+		</track>
+	</trackList>
+</playlist>
