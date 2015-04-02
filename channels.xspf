@@ -186,7 +186,7 @@
 		</track>
 		<track>
 			<location>dvb-t://frequency=658000000:bandwidth=8</location>
-			<title>3 SD/title>
+			<title>3 SD</title>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
 				<vlc:option>program=28</vlc:option>
 			</extension>
